@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="MainPrueba.cpp">
+    <ClCompile Include="315114078_Reporte8_Gpo09.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
