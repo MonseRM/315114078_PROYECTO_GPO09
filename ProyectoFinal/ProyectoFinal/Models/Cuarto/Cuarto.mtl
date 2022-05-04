@@ -51,6 +51,13 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd almohada.jpg
 Ni 1.00
+newmtl Lampara:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd textura.jpg
+Ni 1.00
 newmtl Mesa:mesa:Material_009
 illum 4
 Kd 0.64 0.64 0.64
