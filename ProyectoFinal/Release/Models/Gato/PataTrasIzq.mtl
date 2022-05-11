@@ -1,0 +1,56 @@
+newmtl CuerpoGato:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl CuerpoGato1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl PataDelDer:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl PataDelDer1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl PataDelIzq:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl PataDelIzq1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl PataTrasIzq:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
+newmtl PataTrasIzq1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cat_01_color05.tga
+Ni 1.00
